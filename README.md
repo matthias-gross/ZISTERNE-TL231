@@ -8,6 +8,7 @@ Der TL231 wird mit 24 Volt betrieben und liefert je nach Füllstand der Zisterne
 * Bei   0cm Wasserstand werden  4mA zurück geliefert
 * Bei 500cm Wasserstand werden 20mA zurück geliefert
 
+[[https://github.com/matthias-gross/ZISTERNE-TL231/Skizze.jpeg|alt=Skizze-Aufbau]]
 
 In Release v1.0 wurde die Grundlogik für ESP32, ESP8266 und Arduino Nano implementiert
 
